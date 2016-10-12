@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<player>
+    <users>
+        <user>
+            <name>user1</name>
+            <score>0</score>
+        </user>
+        <user>
+            <name>user2</name>
+            <score>0</score>
+        </user>
+        <user>
+            <name>user4</name>
+            <score>0</score>
+        </user>
+        <user>
+            <name>nik</name>
+            <score>0</score>
+        </user>
+        <user>
+            <name>nnn</name>
+            <score>10</score>
+        </user>
+    </users>
+    <questions>
+        <question isSlove="SOLVED" id="1" author="nnn">ni hai hao ma</question>
+    </questions>
+    <answers>
+        <answer ques_id="1" author="nnn">dfko</answer>
+    </answers>
+</player>
